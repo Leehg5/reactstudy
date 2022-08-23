@@ -1,0 +1,86 @@
+.boot {
+  position: fixed;
+  width: 20%;
+  height: 1200px;
+  background-color: #002e73;
+  padding: 15px;
+  
+}
+.boot1 {
+  padding-left: 40px;
+  font-size: 40px;
+  line-height: 300%;
+  color: white;
+  
+}
+a {
+  text-decoration: none;
+  height: 13px;
+  color: white;
+}
+.aa {
+  list-style: none; 
+  margin-top: -40px;
+}
+.bb {
+  list-style: none;
+}
+.cc {
+  list-style: none;
+}
+.vip {
+  display:flex;
+  line-height: 25px;
+}
+.xpo {
+  color: #C90000;
+}
+.img {
+  padding-left: 35px;
+  
+}
+.img1 {
+  padding-right: 30px;
+  
+}
+
+.dd {
+  list-style: none;
+  color: white;
+}
+.ee {
+  list-style: none;
+  color: white;
+}
+.ff {
+  list-style: none;
+}
+.date1 {
+  color: #C90000;
+}
+.input1 {
+  background-color: #002E73;
+  width: 150px;
+  border: none;
+  border-bottom: 1px solid white;
+}
+.nmnm {
+ display: flex; 
+}
+.avp {
+  height: 420px;
+  width: 320px;
+  margin: 10px;
+  
+}
+  
+.av {
+  margin: 20px;
+  margin-top: 30px;
+}
+.ai1 {
+ margin-left: 23%;
+}
+.opop {
+  margin-left: 476px;
+}
